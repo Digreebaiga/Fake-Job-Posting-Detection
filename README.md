@@ -19,7 +19,9 @@ This project uses Machine Learning and Natural Language Processing (NLP) to dete
 2. Data Preprocessing
 3. Feature Engineering
 4. Machine Learning Model Training
-5. Evaluation
+5. Model Evaluation
+6. Model Selection
+7. Model Deployment
 
 ## Models Used
 - Logistic Regression
@@ -32,6 +34,10 @@ The model successfully classifies fake and real job postings.
 ## Dataset
 Fake Job Posting Dataset from Kaggle.
 
-## Author
-Digree Baiga
-Data Science & Analytics Student
+
+## 👨‍💻 Author
+
+**Digreelal Baiga**
+
+**Project:** House Price Prediction
+**Domain:** Data Science & Machine Learning
